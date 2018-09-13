@@ -1,0 +1,6 @@
+# 这是anather测试文本
+a = [4,2,7,9,6]
+sorted(a)
+# 这是一个排序函数
+dict = {"name":"wang"}
+dict.keys()
