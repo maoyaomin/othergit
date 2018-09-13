@@ -1,0 +1,8 @@
+e 这是一个简单的测试语句
+import random
+a = [1,4,5,7,3,2]
+result = random.choice(a)
+
+# 随机生成蒙的卡罗0-1的随机数
+number = random.randint(0,1)
+
